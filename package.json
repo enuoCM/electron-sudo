@@ -2,56 +2,56 @@
   "_args": [
     [
       {
-        "raw": "electron-sudo@git+https://github.com/ppoffice/electron-sudo.git#417693c81b80da5e65b1d3831f9faa729e270366",
+        "raw": "electron-sudo@git+https://github.com/enuoCM/electron-sudo",
         "scope": null,
         "escapedName": "electron-sudo",
         "name": "electron-sudo",
-        "rawSpec": "git+https://github.com/ppoffice/electron-sudo.git#417693c81b80da5e65b1d3831f9faa729e270366",
-        "spec": "git+https://github.com/ppoffice/electron-sudo.git#417693c81b80da5e65b1d3831f9faa729e270366",
+        "rawSpec": "git+https://github.com/enuoCM/electron-sudo",
+        "spec": "git+https://github.com/enuoCM/electron-sudo",
         "type": "hosted",
         "hosted": {
           "type": "github",
-          "ssh": "git@github.com:ppoffice/electron-sudo.git#417693c81b80da5e65b1d3831f9faa729e270366",
-          "sshUrl": "git+ssh://git@github.com/ppoffice/electron-sudo.git#417693c81b80da5e65b1d3831f9faa729e270366",
-          "httpsUrl": "git+https://github.com/ppoffice/electron-sudo.git#417693c81b80da5e65b1d3831f9faa729e270366",
-          "gitUrl": "git://github.com/ppoffice/electron-sudo.git#417693c81b80da5e65b1d3831f9faa729e270366",
-          "shortcut": "github:ppoffice/electron-sudo#417693c81b80da5e65b1d3831f9faa729e270366",
-          "directUrl": "https://raw.githubusercontent.com/ppoffice/electron-sudo/417693c81b80da5e65b1d3831f9faa729e270366/package.json"
+          "ssh": "git@github.com:enuoCM/electron-sudo.git",
+          "sshUrl": "git+ssh://git@github.com/enuoCM/electron-sudo",
+          "httpsUrl": "git+https://github.com/enuoCM/electron-sudo",
+          "gitUrl": "git://github.com/enuoCM/electron-sudo",
+          "shortcut": "github:enuoCM/electron-sudo",
+          "directUrl": "https://raw.githubusercontent.com/enuoCM/electron-sudo/package.json"
         }
       },
       "/Users/mc/workspace/warp-drive/src/core/.meteor/desktop-build"
     ]
   ],
-  "_from": "git+https://github.com/ppoffice/electron-sudo.git#417693c81b80da5e65b1d3831f9faa729e270366",
+  "_from": "git+https://github.com/enuoCM/electron-sudo",
   "_id": "electron-sudo@4.0.12",
   "_inCache": true,
   "_location": "/electron-sudo",
   "_phantomChildren": {},
   "_requested": {
-    "raw": "electron-sudo@git+https://github.com/ppoffice/electron-sudo.git#417693c81b80da5e65b1d3831f9faa729e270366",
+    "raw": "electron-sudo@git+https://github.com/enuoCM/electron-sudo",
     "scope": null,
     "escapedName": "electron-sudo",
     "name": "electron-sudo",
-    "rawSpec": "git+https://github.com/ppoffice/electron-sudo.git#417693c81b80da5e65b1d3831f9faa729e270366",
-    "spec": "git+https://github.com/ppoffice/electron-sudo.git#417693c81b80da5e65b1d3831f9faa729e270366",
+    "rawSpec": "git+https://github.com/enuoCM/electron-sudo",
+    "spec": "git+https://github.com/enuoCM/electron-sudo",
     "type": "hosted",
     "hosted": {
       "type": "github",
-      "ssh": "git@github.com:ppoffice/electron-sudo.git#417693c81b80da5e65b1d3831f9faa729e270366",
-      "sshUrl": "git+ssh://git@github.com/ppoffice/electron-sudo.git#417693c81b80da5e65b1d3831f9faa729e270366",
-      "httpsUrl": "git+https://github.com/ppoffice/electron-sudo.git#417693c81b80da5e65b1d3831f9faa729e270366",
-      "gitUrl": "git://github.com/ppoffice/electron-sudo.git#417693c81b80da5e65b1d3831f9faa729e270366",
-      "shortcut": "github:ppoffice/electron-sudo#417693c81b80da5e65b1d3831f9faa729e270366",
-      "directUrl": "https://raw.githubusercontent.com/ppoffice/electron-sudo/417693c81b80da5e65b1d3831f9faa729e270366/package.json"
+      "ssh": "git@github.com:enuoCM/electron-sudo.git",
+      "sshUrl": "git+ssh://git@github.com/enuoCM/electron-sudo",
+      "httpsUrl": "git+https://github.com/enuoCM/electron-sudo",
+      "gitUrl": "git://github.com/enuoCM/electron-sudo",
+      "shortcut": "github:enuoCM/electron-sudo",
+      "directUrl": "https://raw.githubusercontent.com/enuoCM/electron-sudo/package.json"
     }
   },
   "_requiredBy": [
     "/"
   ],
-  "_resolved": "git+https://github.com/ppoffice/electron-sudo.git#417693c81b80da5e65b1d3831f9faa729e270366",
+  "_resolved": "git+https://github.com/enuoCM/electron-sudo",
   "_shasum": "17f91c084602288e476fdc3ac0534bd21166e4d8",
   "_shrinkwrap": null,
-  "_spec": "electron-sudo@git+https://github.com/ppoffice/electron-sudo.git#417693c81b80da5e65b1d3831f9faa729e270366",
+  "_spec": "electron-sudo@git+https://github.com/enuoCM/electron-sudo",
   "_where": "/Users/mc/workspace/warp-drive/src/core/.meteor/desktop-build",
   "author": {
     "name": "Aleksandr Komlev"
@@ -102,7 +102,7 @@
     "webpack-module-hot-accept": "^1.0.4",
     "webpack-shell-plugin": "^0.4.2"
   },
-  "gitHead": "417693c81b80da5e65b1d3831f9faa729e270366",
+  "gitHead": "",
   "homepage": "https://github.com/automation-stack/electron-sudo#readme",
   "keywords": [
     "sudo",
